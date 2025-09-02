@@ -1,14 +1,4 @@
 
-
-Repo structure:
-/data/                # keep raw data OUT of the repo; store READMEs or sample rows only
-/notebooks/           # EDA & modeling notebooks
-/src/                 # reusable Python modules/scripts (optional for now)
-/reports/             # figures, exported tables, PDFs
-/docs/                # project docs (proposal, sprint memos, etc.)
-README.md             # see template below
-.gitignore
-
 # Criminal Justice Project - <Team 1A>
 
 **Overview:** How can we use info about the victim and what they experienced, to predict what potential crime would occur to them in the future?
