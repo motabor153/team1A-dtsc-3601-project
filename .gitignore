@@ -1,0 +1,16 @@
+# Exclude all files in the data directory
+data/*
+
+# Exclude macOS system files
+/DS_Store
+
+# Exclude Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Exclude environment files
+.env
+
+# Exclude large files (over 100MB)
+*.log
+*.tmp
+*.bak
